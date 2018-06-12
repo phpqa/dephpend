@@ -7,4 +7,4 @@ services:
       dockerfile: Dockerfile
       args:
         - IMAGE_NAME
-    command: --version
+    command: help --version
